@@ -1,0 +1,26 @@
+[
+  {
+    "fname": "Test",
+    "lname": "Hello",
+    "occupation_cat": "Computer",
+    "occupation": "Computer Engineer",
+    "email": "Test@gmail.com",
+    "password": "test123456"
+  },
+  {
+    "fname": "iloveyou",
+    "lname": "so...",
+    "occupation_cat": "Computer",
+    "occupation": "Computer hardware engineer",
+    "email": "Test2@gmail.com",
+    "password": "test223456"
+  },
+  {
+    "fname": "Konnichiwa",
+    "lname": "Hi",
+    "occupation_cat": "Healthcare",
+    "occupation": "Optometrist",
+    "email": "Test3@gmail.com",
+    "password": "test3123456"
+  }
+]
